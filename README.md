@@ -1,2 +1,2 @@
 # snake-game-.
-This is a snake game developed and executed using Linux through WSL. 
+A classic Snake game built in C using Linux WSL (Windows Subsystem for Linux), featuring terminal-based graphics.
